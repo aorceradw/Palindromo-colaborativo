@@ -1,0 +1,1 @@
+Aquí vamos a hacer el palíndromo con funciones. Aqui hay que separar las cosas (una para limpiar el texto y otra para la lógica) y es muy importante poner la función main

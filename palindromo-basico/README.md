@@ -1,0 +1,1 @@
+Migue, aquí vamos a hacer el palíndromo con lo básico, o sea, como lo hemos hecho hasta ahora, osea solo la lógica normal para ver si la palabra se lee igual del revés
